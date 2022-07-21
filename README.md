@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdfaiz027
+- 👋 Hi, I’m Mohammed Faiz
 - 👀 I’m interested in Android development using Java
 - 🌱 I’m currently pursuing MCA from Osmania University College of Engineering, Hyderabad.
 - 📫 You can reach me at mdfaiz027@gmail.com
