@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Mohammed Faiz
-- 👀 I’m interested in Android development using Java
-- 🌱 I’m currently pursuing MCA from Osmania University College of Engineering, Hyderabad.
-- 📫 You can reach me at mdfaiz027@gmail.com
+## Hi 👋, I'm Mohammed Faiz
 
-<!---
-mdfaiz027/mdfaiz027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Lead Software Engineer with 3.5+ years of experience building scalable mobile applications using Flutter & Dart.
+
+- 🔭 Currently working on cross-platform apps for government & healthcare sectors  
+- 🧠 Strong in Clean Architecture, MVVM, and offline-first systems  
+- 🚀 Experience leading teams and managing end-to-end mobile delivery  
+- 📱 Built production apps with real-time APIs, GPS tracking, and secure systems  
+
+### Tech Stack
+Flutter • Dart • Android • REST APIs • Firebase • SQFlite • CI/CD • Agile
+
+### Let's connect
+- LinkedIn: https://linkedin.com/in/mdfaiz027
+- Email: mdfaiz027@gmail.com
