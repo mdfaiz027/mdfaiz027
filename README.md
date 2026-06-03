@@ -9,7 +9,7 @@
 
 ## Tech Stack
 
-Flutter • Dart • Android (Kotlin/Java) • Jetpack Compose • REST APIs • Firebase • Provider / Riverpod / Bloc • Git • CI/CD • Agile
+Flutter • Dart • Android (Kotlin/Java) • Jetpack Compose • REST APIs • Firebase • Provider / Riverpod • Git • CI/CD • Agile
 
 ## Let's connect
 
